@@ -1,4 +1,4 @@
-# Crypto Trading Bot
+# Crypto Trading Machine Learning Bot
 
 This repository contains code for a cryptocurrency trading bot that uses an LSTM model to predict future prices and make trading decisions. The bot can be backtested using historical data and is designed to learn and improve over time.
 
@@ -67,5 +67,5 @@ For live trading, you can use the `live_trading_bot.py` script (optional). Note 
     ```bash
     pip install -r requirements.txt
     ```
-### By Chumbacash ✌🌷
-This is not a financial advice whatsoever, I create it for fun TF!
+## By Chumbacash ✌🌷
+This is not a financial advice whatsoever, I create it for fun Infact it's a losing model 😪😂😂!
