@@ -49,7 +49,7 @@ This repository contains code for a cryptocurrency trading bot that uses an LSTM
 To train the model, run the `train_model.py` script. Ensure you have the historical data in the `data` folder.
 
     ```bash
-    pip install -r requirements.txt
+   python scripts/train_model.py
     ```
 
 ### Backtesting the Model
@@ -57,15 +57,25 @@ To train the model, run the `train_model.py` script. Ensure you have the histori
 To backtest the model, run the `backtest.py` script. This will simulate trading on historical data and output the performance metrics.
 
     ```bash
-    pip install -r requirements.txt
+    python scripts/backtest.py
     ```
 
-
 ### Live Trading
+
 For live trading, you can use the `live_trading_bot.py` script (optional). Note that this script is a template and will need to be customized with your trading platform API details.
 
     ```bash
-    pip install -r requirements.txt
+    python scripts/live_trading_bot.py
     ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## By Chumbacash ✌🌷
-This is not a financial advice whatsoever, I create it for fun Infact it's a losing model 😪😂😂!
+
+This is not financial advice whatsoever; I created it for fun.
+
+## Disclaimer
+
+Infact, this is a losing model, my bad 'sorry' 😪😂😂. Use at your own risk and discretion.
