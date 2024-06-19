@@ -18,7 +18,7 @@ This repository contains code for a cryptocurrency trading bot that uses an LSTM
 
     ```bash
     git clone https://github.com/chumbacash/crypto-ml-trading-bot.git
-    cd crypto-trading-bot
+    cd crypto-trading-ml-bot
     ```
 
 2. Create a virtual environment and activate it:
@@ -52,7 +52,6 @@ To train the model, run the `train_model.py` script. Ensure you have the histori
     pip install -r requirements.txt
     ```
 
-
 ### Backtesting the Model
 
 To backtest the model, run the `backtest.py` script. This will simulate trading on historical data and output the performance metrics.
@@ -68,3 +67,5 @@ For live trading, you can use the `live_trading_bot.py` script (optional). Note 
     ```bash
     pip install -r requirements.txt
     ```
+### By Chumbacash ✌🌷
+This is not a financial advice whatsoever, I create it for fun TF!
