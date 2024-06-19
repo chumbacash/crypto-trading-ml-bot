@@ -1,0 +1,10 @@
+pandas
+ccxt
+ta
+lightweight_charts
+ipykernel
+numpy
+matplotlib
+scikit-learn
+tensorflow
+keras
