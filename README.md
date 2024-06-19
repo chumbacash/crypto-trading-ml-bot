@@ -72,7 +72,7 @@ For live trading, you can use the `live_trading_bot.py` script (optional). Note 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## By Chumbacash ✌🌷
+## By Amon (chumbacash) ✌🌷
 
 This is not financial advice whatsoever; I created it for fun.
 
